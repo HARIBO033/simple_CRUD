@@ -1,0 +1,8 @@
+PUT http://localhost:8080/updateEmployee/haribo1
+Content-Type: application/json
+
+{
+  "employeeLevel" : "SENIOR_MANAGER",
+  "memberId" : "haribo4",
+  "yearsOfService" : 4
+}

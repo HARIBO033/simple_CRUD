@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/deleteEmployee/haribo1
+Content-Type: application/json

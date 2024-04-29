@@ -1,0 +1,15 @@
+POST http://localhost:8080/createEmployee
+Content-Type: application/json
+
+{
+  "employeeLevel": "MANAGER",
+  "memberId": "haribo1",
+  "name" : "eeeee",
+  "yearsOfService" : 3,
+  "age" : 20
+}
+
+<> 2024-04-22T200341.200.json
+<> 2024-04-22T200323.200.json
+<> 2024-04-22T200114.200.json
+<> 2024-04-22T195502.400.json
